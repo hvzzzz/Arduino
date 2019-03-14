@@ -15,7 +15,6 @@ delay(2000);
 }
 void loop() 
 {
-  
   if(contador ++== 10)
   {
     contador=0;
